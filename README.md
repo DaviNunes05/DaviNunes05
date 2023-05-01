@@ -1,7 +1,7 @@
 # Olá, me chamo Davi!
 
 ## 💫 Sobre mim:
-Desenvolvedor Fullstack Java☕ em Busca do meu espaço.<br>Nesse Github encontrará projetos <b>PESSOAIS</b>, de cursos e exercícios.<br>Meu maior projeto atualmente é a criação de uma plataforma de um Hotel, onde desenvolvi junto com meu grupo Front-end e tive a oportunidade de desenvolver todo seu Back-end.
+Desenvolvedor Fullstack Java☕ em Busca do meu espaço.<br>Nesse Github encontrará projetos <b>PESSOAIS</b>, de cursos e exercícios.<br>Meu maior projeto atualmente é a criação de uma plataforma de um Hotel, onde desenvolvi junto com meu grupo Front-end e tive a oportunidade de desenvolver todo seu Back-end(Ambos marcados abaixo).
 
 
 ## 🌐 Mídias:
