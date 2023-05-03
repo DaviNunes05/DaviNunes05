@@ -1,7 +1,7 @@
 # Olá, me chamo Davi!
 
 ## 💫 Sobre mim:
-Desenvolvedor Fullstack Java☕ em Busca do meu espaço.<br>Nesse Github encontrará projetos <b>PESSOAIS</b>, de cursos e exercícios.<br>Meu maior projeto atualmente é a criação de uma plataforma de um Hotel, onde desenvolvi junto com meu grupo o Front-end e tive a oportunidade de desenvolver todo seu Back-end(Ambos marcados abaixo).
+Desenvolvedor Fullstack Java☕ em Busca do meu espaço.<br>Nesse Github encontrará projetos <b>PESSOAIS</b>, de cursos e exercícios.<br>Meu maior projeto atualmente é a criação de uma plataforma de um Hotel, onde desenvolvi junto com meu grupo o Front-end e tive a oportunidade de desenvolver todo seu Back-end(Ambos marcados abaixo).<br> Especialista em Excel, que foi onde começou(11 anos atrás) toda minha paixão por programação, sim eu amo esses quadradinhos, onde tive muito êxito em qualquer empresa que me demandasse de "mexer com Excel", seja desenvolvendo scripts ou planilhas personalizadas e auto"mágicas", sempre que possível utilizava Visual Basic, e mais pra frente conheci o Google Sheets, onde apliquei muito JavaScript para desenvolver melhor as performances de processamento... E pensando nisso e ampliar minhas possibilidades decidi entrar de vez no mundo da programação. E cá estou 😁.
 
 
 ## 🌐 Mídias:
