@@ -11,7 +11,7 @@ Minha paixão pela programação começou há mais de uma década, quando me tor
 Atualmente, estou em busca de me aprofundar no mundo do desenvolvimento Full-stack Java (ou em outras tecnologias que me forem apresentadas) e aproveitar ao máximo todas as oportunidades que surgirem.
 
 ## 📫 Contato:
-Se quiser entrar em contato comigo para discutir oportunidades de trabalho, sinta-se à vontade para enviar uma mensagem para o meu e-mail, LinkedIn ou Whatsapp. Estou sempre aberto a novas conexões e parcerias.
+Se quiser entrar em contato comigo para discutir oportunidades de trabalho, sinta-se à vontade para enviar uma mensagem para o meu e-mail, LinkedIn ou Whatsapp. Estou sempre aberto a novas conexões e parcerias.<br>Basta clicar nas "badges" abaixo: 
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&link=https://wa.me/5521968244017)](https://wa.me/5521968244017) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:davi.nunes05%40gmail.com)](mailto:davi.nunes05@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pmc49saH7d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-nunes-4819b17b) 
 
