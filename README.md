@@ -1,7 +1,7 @@
 # Olá, me chamo Davi!
 
 ## 💫 Sobre mim:
- Sou um desenvolvedor Full-stack Java em busca de novas oportunidades. Neste perfil você encontrará alguns dos meus projetos pessoais, bem como trabalhos de cursos e exercícios.<br>Recentemente, tive a oportunidade de trabalhar no desenvolvimento de uma plataforma de reservas para um hotel. Como parte da equipe, fui responsável pelo desenvolvimento do back-end completo e par do trabalho no front-end.<br> Você pode conferir o front-end do projeto aqui: https://hotelh.vercel.app/ <br>
+ Sou um desenvolvedor Full-stack Java em busca de novas oportunidades. Neste perfil você encontrará alguns dos meus projetos pessoais, bem como trabalhos de cursos e exercícios.<br>Recentemente, tive a oportunidade de trabalhar no desenvolvimento de uma plataforma de reservas para um hotel. Como parte da equipe, fui responsável pelo desenvolvimento do back-end completo e parte do trabalho no front-end.<br> Você pode conferir o front-end do projeto aqui: https://hotelh.vercel.app/ <br>
 Um pouco mais sobre mim:<br> Minha paixão pela programação começou há mais de uma década, quando me tornei especialista em Excel e aprendi a desenvolver scripts e planilhas personalizadas para várias empresas. Com o tempo, descobri o potencial do JavaScript no Google Sheets e comecei a trabalhar em projetos de programação mais avançados. Atualmente, estou a procura de me aprofundar no mundo do desenvolvimento Full-stack Java(ou aquela a qual me for apresentada) e aproveitar ao máximo todas as novas oportunidades que surgirem.
 
 
