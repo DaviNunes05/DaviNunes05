@@ -1,12 +1,19 @@
-# Olá, me chamo Davi!
+# Olá, meu nome é Davi!
 
-## 💫 Sobre mim:
- Sou um desenvolvedor Full-stack Java em busca de novas oportunidades. Neste perfil você encontrará alguns dos meus projetos pessoais, bem como trabalhos de cursos e exercícios.<br>Recentemente, tive a oportunidade de trabalhar no desenvolvimento de uma plataforma de reservas para um hotel. Como parte da equipe, fui responsável pelo desenvolvimento do back-end completo e parte do trabalho no front-end.<br> Você pode conferir o front-end do projeto aqui: https://hotelh.vercel.app/ <br>
-Um pouco mais sobre mim:<br> Minha paixão pela programação começou há mais de uma década, quando me tornei especialista em Excel e aprendi a desenvolver scripts e planilhas personalizadas para várias empresas. Com o tempo, descobri o potencial do JavaScript no Google Sheets e comecei a trabalhar em projetos de programação mais avançados. Atualmente, estou a procura de me aprofundar no mundo do desenvolvimento Full-stack Java(ou aquela a qual me for apresentada) e aproveitar ao máximo todas as novas oportunidades que surgirem.
+## 💻 Sobre mim:
+Sou um desenvolvedor Full-stack Java em busca de novas oportunidades. Neste perfil, você encontrará alguns dos meus projetos pessoais, trabalhos de cursos e exercícios.
 
+Recentemente, participei do desenvolvimento completo do back-end de uma plataforma de reservas para um hotel. Além disso, também trabalhei em algumas partes do front-end. Você pode conferir o resultado final do projeto aqui: https://hotelh.vercel.app/.
 
-## 🌐 Mídias:
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:davi.nunes05%40gmail.com)](mailto:davi.nunes05@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pmc49saH7d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-nunes-4819b17b) 
+## 💡 Experiência:
+Minha paixão pela programação começou há mais de uma década, quando me tornei especialista em Excel e desenvolvi scripts e planilhas personalizadas para várias empresas. Com o tempo, descobri o potencial do JavaScript no Google Sheets e comecei a trabalhar em projetos mais avançados de programação.
+
+Atualmente, estou em busca de me aprofundar no mundo do desenvolvimento Full-stack Java (ou em outras tecnologias que me forem apresentadas) e aproveitar ao máximo todas as novas oportunidades que surgirem.
+
+## 📫 Contato:
+Se quiser entrar em contato comigo para discutir oportunidades de trabalho, sinta-se à vontade para enviar uma mensagem para o meu e-mail, LinkedIn ou Whatsapp. Estou sempre aberto a novas conexões e parcerias.
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&link=https://wa.me/5521968244017)](https://wa.me/5521968244017) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:davi.nunes05%40gmail.com)](mailto:davi.nunes05@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pmc49saH7d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-nunes-4819b17b) 
 
 ## 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CD6799?style=plastic&logo=sass&logoColor=white&link=https://sass-lang.com/)<br>
