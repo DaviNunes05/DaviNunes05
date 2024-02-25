@@ -1,12 +1,12 @@
 # Olá, meu nome é Davi!
 
 ## 💻 Sobre mim:
-Sou um desenvolvedor Full-stack Java e JavaScript em busca da minha primeira vaga. Neste perfil, você encontrará alguns dos meus projetos pessoais, trabalhos de cursos e exercícios.
+ Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou me aprimorando em Banco de Dados. Tenho experiência como desenvolvedor Full-stack em Java e JavaScript e estou ansioso para a minha primeira oportunidade profissional. Aqui neste perfil, compartilho alguns dos meus projetos pessoais, trabalhos acadêmicos e exercícios que realizei.
+
+Um pouco sobre minha trajetória profissional: minha paixão pela programação surgiu há mais de uma década, quando comecei a explorar o potencial do Excel. Desde então, tenho me dedicado a aprimorar minhas habilidades, percebendo minha afinidade em resolver problemas através da criação de ferramentas personalizadas, como planilhas e macros utilizando VBA. Com o tempo, expandi meus horizontes para o Google Sheets, cuja estrutura é baseada em JavaScript. Foi nesse ambiente de planilhas, que desenvolvi minha lógica de programação, aprimorei minhas habilidades de scripting e despertei um interesse ainda maior em criar aplicações web. Desde então, venho buscando constantemente aprimorar meus conhecimentos em desenvolvimento de sistemas, através de cursos, grupos de estudos e videoaulas. Existe ainda muita experiência envolvida, mas ficaria um texto muito longo, espero que goste do perfil 😁.
 
 ## 💡 Experiência:
-Minha paixão pela programação começou há mais de uma década, quando me tornei especialista em Excel e desenvolvi scripts e planilhas personalizadas para várias empresas. Com o tempo, descobri o potencial do JavaScript no Google Sheets e comecei a trabalhar em projetos mais avançados de programação.
-
-Recentemente me desafiei tendo que desenvolver um Quiz para a empresa GuimaConseco, visto que a empresa não encontrava um "Quiz" o qual atendesse suas necessidades, me disponibilizei a desenvolver o 'Quiz' o qual o objetivo era saber o nível de conhecimento dos colaboradores da empresa GuimaConseco sobre o tema "Segurança no Trabalho". Utilizei Node.Js, MongoDB e JavaScript, não utilizei um framework, pois não achei necessário. Link: https://davinunes05.github.io/quiz-guima-front/
+ Recentemente me desafiei tendo que desenvolver um Quiz para a empresa GuimaConseco, visto que a empresa não encontrava um "Quiz" o qual atendesse suas necessidades, me disponibilizei a desenvolver o 'Quiz' o qual o objetivo era saber o nível de conhecimento dos colaboradores da empresa GuimaConseco sobre o tema "Segurança no Trabalho". Utilizei Node.Js, MongoDB e JavaScript, não utilizei um framework, pois não achei necessário. Link: https://davinunes05.github.io/quiz-guima-front/
 
 Mais uma experiência que creio ser relevante, foi a participação de um Bootcamp intensivo de Java de 6 meses de duração, o qual desenvolvemos uma plataforma de reservas de hotel, utilizando as boas práticas, versionamento e todo o ecosistema que envolve o desenvolvimento de uma aplicação. Neste projeto desenvolvi todo o Back-end(SpringBoot) e alguns trechos do front-end, como o Login do cliente. Link: https://hotelh.vercel.app/.
 
