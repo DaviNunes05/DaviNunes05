@@ -1,14 +1,16 @@
 # Olá, meu nome é Davi!
 
 ## 💻 Sobre mim:
-Sou um desenvolvedor Full-stack Java em busca da minha primeira vaga. Neste perfil, você encontrará alguns dos meus projetos pessoais, trabalhos de cursos e exercícios.
-
-Recentemente, participei do desenvolvimento completo do back-end de uma plataforma de reservas para um hotel. Além disso, também trabalhei em algumas partes do front-end. Você pode conferir o resultado final do projeto aqui: https://hotelh.vercel.app/.
+Sou um desenvolvedor Full-stack Java e JavaScript em busca da minha primeira vaga. Neste perfil, você encontrará alguns dos meus projetos pessoais, trabalhos de cursos e exercícios.
 
 ## 💡 Experiência:
 Minha paixão pela programação começou há mais de uma década, quando me tornei especialista em Excel e desenvolvi scripts e planilhas personalizadas para várias empresas. Com o tempo, descobri o potencial do JavaScript no Google Sheets e comecei a trabalhar em projetos mais avançados de programação.
 
-Atualmente, estou em busca de me aprofundar no mundo do desenvolvimento Full-stack Java (ou em outras tecnologias que me forem apresentadas) e aproveitar ao máximo todas as oportunidades que surgirem.
+Recentemente me desafiei tendo que desenvolver um Quiz para a empresa GuimaConseco, visto que a empresa não encontrava um "Quiz" o qual atendesse suas necessidades, me disponibilizei a desenvolver o 'Quiz' o qual o objetivo era saber o nível de conhecimento dos colaboradores da empresa GuimaConseco sobre o tema "Segurança no Trabalho". Utilizei Node.Js, MongoDB e JavaScript, não utilizei um framework, pois não achei necessário. Link: https://davinunes05.github.io/quiz-guima-front/
+
+Mais uma experiência que creio ser relevante, foi a participação de um Bootcamp intensivo de Java de 6 meses de duração, o qual desenvolvemos uma plataforma de reservas de hotel, utilizando as boas práticas, versionamento e todo o ecosistema que envolve o desenvolvimento de uma aplicação. Neste projeto desenvolvi todo o Back-end(SpringBoot) e alguns trechos do front-end, como o Login do cliente. Link: https://hotelh.vercel.app/.
+
+Atualmente, estou em busca de me aprofundar no mundo do desenvolvimento Full-stack e aproveitar ao máximo todas as oportunidades que surgirem.
 
 ## 📫 Contato:
 Se quiser entrar em contato comigo para discutir oportunidades de trabalho, sinta-se à vontade para enviar uma mensagem para o meu e-mail, LinkedIn ou Whatsapp. Estou sempre aberto a novas conexões e parcerias.<br>Basta clicar nas "badges" abaixo: 
