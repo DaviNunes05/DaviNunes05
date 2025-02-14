@@ -1,7 +1,7 @@
 # Olá, meu nome é Davi!
 
 ## 💻 Sobre mim:
-Sou Quality Assurance (QA) com experiência em automação de testes e desenvolvimento backend. Minha jornada na tecnologia iniciou-se há mais de uma década, com o desenvolvimento de soluções personalizadas para otimização de processos. Desde então, venho aprimorando minhas habilidades e aprofundando meus conhecimentos em testes automatizados, qualidade de software e boas práticas de desenvolvimento.
+Sou Quality Assurance (QA) com experiência em testes manuais e automação de testes. Minha jornada na tecnologia iniciou-se há mais de uma década, com o desenvolvimento de soluções personalizadas para otimização de processos. Desde então, venho aprimorando minhas habilidades e aprofundando meus conhecimentos em testes automatizados, qualidade de software e boas práticas de desenvolvimento.
 
 Atualmente, trabalho com ferramentas e frameworks para garantir a confiabilidade e segurança das aplicações, aplicando metodologias como BDD e CI/CD para otimizar processos de validação e entrega de software. Estou sempre em busca de novos desafios e oportunidades para evoluir na área de QA!
 
@@ -31,7 +31,7 @@ Se quiser entrar em contato comigo para discutir oportunidades de trabalho, sint
 ### **Conhecimentos Gerais**  
 
 #### **Linguagens de Programação**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 #### **Frameworks e Bibliotecas**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
