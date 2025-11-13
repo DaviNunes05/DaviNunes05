@@ -4,7 +4,7 @@
 
 Sou Desenvolvedor Backend com foco em **NestJS** e **Arquitetura Hexagonal**, aplicando boas práticas de desenvolvimento e design patterns para construir aplicações escaláveis e de alta qualidade. 
 
-Iniciei minha jornada na tech como QA, onde desenvolvi uma visão sólida sobre qualidade de software e testes automatizados. Essa experiência me deu uma base diferenciada para atuar agora no desenvolvimento de sistemas distribuídos, trabalhando com **microserviços**, **mensageria** e **cloud** (AWS), aplicando conceitos de Clean Architecture para garantir código testável e manutenível.
+Iniciei minha jornada na área tech como QA, onde desenvolvi uma visão sólida sobre qualidade de software e testes automatizados. Essa experiência me deu uma base diferenciada para atuar agora no desenvolvimento de sistemas distribuídos, trabalhando com **microserviços**, **mensageria** e **cloud** (AWS), aplicando conceitos de Clean Architecture para garantir código testável e manutenível.
 
 Tenho uma base sólida em **Quality Assurance**, o que me dá uma visão diferenciada sobre qualidade de código, testes automatizados e processos de CI/CD - essencial para qualquer dev backend que se preze!
 
